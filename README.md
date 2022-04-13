@@ -44,7 +44,7 @@ SOLUTION
 └── yarn.lock
 ```
 
-
+## Expected Outcome
 
 ![Project 008 Snapshot](movie-app.gif)
 
@@ -62,7 +62,7 @@ Build a Movie App using ReactJS.
 
 - ReactJS
 
-### At the end of the project will be able to;
+### At the end of the project, students will be able to;
 
 - improve coding skills within HTML & CSS & JS & ReactJS.
 
@@ -78,6 +78,12 @@ Build a Movie App using ReactJS.
 
 - Step 4 : Signup `https://www.themoviedb.org/documentation/api` and get API key for getting data from `https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY}`, for searching movies `https://api.themoviedb.org/3/search/movie?api_key=${API_KEY}&query=` and for movie details `https://api.themoviedb.org/3/movie/${id}?api_key=${API_KEY}`.
 
-- Step 5: Added project gif to your project and README.md file.
+- Step 5: You can use css frameworks like Bootstrap, Semantic UI, Material UI.
 
+- Step 6: Add project gif to your project and README.md file.
 
+## Notes
+
+- You can add additional functionalities to your app.
+
+**<p align="center">&#9786; Happy Coding &#9997;</p>**
