@@ -1,22 +1,22 @@
 
 https://movie-appppppp.herokuapp.com/
 
-# Project-008 : Movie App (RC-08)
+# Movie App 
 
 ## Description
 
 Project aims to create a Movie App.
+Have used firebase for registration
 
-## Problem Statement
 
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+
 
 ## Project Skeleton
 
 ```
 008 - Movie App (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md         
 SOLUTION
 ├── public
 │     └── index.html
@@ -60,12 +60,3 @@ SOLUTION
 - JS
 
 - ReactJS
-
-
-
-
-
-
-
-
-
